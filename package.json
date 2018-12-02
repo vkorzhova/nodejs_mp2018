@@ -1,0 +1,22 @@
+{
+  "name": "nodejs_mp2018",
+  "version": "1.0.0",
+  "description": "Node.js Global Mentoring Program",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon --exec babel-node app.js",
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vkorzhova/nodejs_mp2018.git"
+  },
+  "author": "Valeriya Korzhova <korzhova.valeriya@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.1.6",
+    "@babel/node": "^7.0.0",
+    "@babel/preset-env": "^7.1.6",
+    "nodemon": "^1.18.7"
+  }
+}
