@@ -17,8 +17,11 @@
     "@babel/core": "^7.1.6",
     "@babel/node": "^7.0.0",
     "@babel/preset-env": "^7.1.6",
+    "combined-stream": "^1.0.7",
+    "commander": "^2.19.0",
     "lodash": "^4.17.11",
     "nodemon": "^1.18.7",
-    "papaparse": "^4.6.2"
+    "papaparse": "^4.6.2",
+    "through2": "^3.0.0"
   }
 }
