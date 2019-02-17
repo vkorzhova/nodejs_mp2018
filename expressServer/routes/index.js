@@ -1,6 +1,9 @@
 const express = require('express');
 
+const tokenValidation = require('../middlewares/tokenValidation');
 const router = express.Router();
+
+router.use(tokenValidation);
 
 router.route('/products')
   .get((req, res) => {

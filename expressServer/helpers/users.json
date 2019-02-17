@@ -1,0 +1,12 @@
+[
+  {
+    "login": "vkorzhova",
+    "password": "123zxc456",
+    "email": "vkorzhova@gmail.com"
+  },
+  {
+    "login": "testUser",
+    "password": "testTEST",
+    "email": "testUser@gmail.com"
+  }
+]
